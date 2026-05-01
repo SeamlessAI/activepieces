@@ -1036,6 +1036,21 @@
       "@activepieces/piece-scrapeless": [
         "packages/pieces/community/scrapeless/src/index.ts"
       ],
+      "@activepieces/piece-seamless": [
+        "packages/pieces/community/seamless/src/index.ts"
+      ],
+      "@activepieces/piece-seamless/*": [
+        "packages/pieces/community/seamless/*"
+      ],
+      "@activepieces/piece-seamless-dev": [
+        "packages/pieces/custom/seamless-dev/src/index.ts"
+      ],
+      "@activepieces/piece-seamless-qa": [
+        "packages/pieces/custom/seamless-qa/src/index.ts"
+      ],
+      "@activepieces/piece-seamless-staging": [
+        "packages/pieces/custom/seamless-staging/src/index.ts"
+      ],
       "@activepieces/piece-segment": [
         "packages/pieces/community/segment/src/index.ts"
       ],
